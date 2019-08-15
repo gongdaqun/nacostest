@@ -1,2 +1,2 @@
 # nacostest
-nacos springboot&amp;could demo
+simple nacos springboot&amp;could demo
